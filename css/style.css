@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    background-color: lavender;
+    color: darkslateblue;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation bar */
+nav {
+    background-color: mediumpurple;
+    padding: 10px;
+}
+
+nav img {
+    height: 35px;
+}
+
+nav a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+h1 {
+    color: purple;
+}
+
+/* Bio photo */
+.bio-photo {
+    width: 250px;
+    border: 3px solid purple;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Paragraph styling */
+p {
+    max-width: 600px;
+    margin: 10px auto;
+}
